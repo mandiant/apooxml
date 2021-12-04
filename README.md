@@ -1,5 +1,5 @@
 # apooxml
-Generate YARA rules for OOXML documents using ZIP local header metadata. To learn more about this tool and the methodology behind it, check out the accompanying blog [here](https://www.fireeye.com/blog/threat-research/2021/08/detecting-embedded-content-in-ooxml-documents.html).
+Generate YARA rules for OOXML documents using ZIP local header metadata. To learn more about this tool and the methodology behind it, check out the accompanying blog [here](https://www.mandiant.com/resources/detecting-embedded-content-in-ooxml-documents).
 
 ## Usage
 ```
